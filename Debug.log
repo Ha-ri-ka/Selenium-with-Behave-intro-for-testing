@@ -1,0 +1,11 @@
+2025-01-30 15:42:45,794 - INFO - launched browser
+2025-01-30 15:42:48,566 - INFO - opened youtube
+2025-01-30 15:42:48,581 - INFO - logo verified
+2025-01-30 15:42:48,581 - INFO - youtube closed
+2025-01-30 15:44:39,985 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-01-30 15:44:41,664 - INFO - launched browser
+2025-01-30 15:44:45,174 - INFO - opened youtube
+2025-01-30 15:47:53,809 - INFO - launched browser
+2025-01-30 15:47:57,910 - INFO - opened youtube
+2025-01-30 15:47:57,928 - INFO - logo verified
+2025-01-30 15:47:57,928 - INFO - youtube closed
