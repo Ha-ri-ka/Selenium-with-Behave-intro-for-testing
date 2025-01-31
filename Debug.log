@@ -9,3 +9,36 @@
 2025-01-30 15:47:57,910 - INFO - opened youtube
 2025-01-30 15:47:57,928 - INFO - logo verified
 2025-01-30 15:47:57,928 - INFO - youtube closed
+2025-01-31 11:34:31,583 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-01-31 11:34:33,270 - INFO - Luanched the browser
+2025-01-31 11:34:36,028 - INFO - Opened youtube
+2025-01-31 11:34:36,165 - INFO - Searched the query in search box
+2025-01-31 11:35:31,053 - INFO - Luanched the browser
+2025-01-31 11:35:33,205 - INFO - Opened youtube
+2025-01-31 11:35:33,299 - INFO - Searched the query in search box
+2025-01-31 11:35:33,353 - INFO - Hit the search button
+2025-01-31 11:36:00,636 - INFO - Luanched the browser
+2025-01-31 11:36:02,351 - INFO - Opened youtube
+2025-01-31 11:36:02,533 - INFO - Searched the query in search box
+2025-01-31 11:36:02,589 - INFO - Hit the search button
+2025-01-31 11:36:07,637 - INFO - youtube closed
+2025-01-31 11:36:29,907 - INFO - Luanched the browser
+2025-01-31 11:36:32,040 - INFO - Opened youtube
+2025-01-31 11:36:32,135 - INFO - Searched the query in search box
+2025-01-31 11:36:36,209 - INFO - Hit the search button
+2025-01-31 11:36:41,244 - INFO - youtube closed
+2025-01-31 11:36:54,509 - INFO - Luanched the browser
+2025-01-31 11:36:56,175 - INFO - Opened youtube
+2025-01-31 11:36:56,368 - INFO - Searched the query in search box
+2025-01-31 11:37:00,454 - INFO - Hit the search button
+2025-01-31 11:37:05,483 - INFO - youtube closed
+2025-01-31 11:37:25,801 - INFO - Luanched the browser
+2025-01-31 11:37:29,251 - INFO - Opened youtube
+2025-01-31 11:37:29,350 - INFO - Searched the query in search box
+2025-01-31 11:37:31,421 - INFO - Hit the search button
+2025-01-31 11:37:36,450 - INFO - youtube closed
+2025-01-31 11:38:28,303 - INFO - Luanched the browser
+2025-01-31 11:38:30,963 - INFO - Opened youtube
+2025-01-31 11:38:31,075 - INFO - Searched the query in search box
+2025-01-31 11:38:33,170 - INFO - Hit the search button
+2025-01-31 11:38:38,216 - INFO - youtube closed
