@@ -5,7 +5,6 @@ import logging
 from selenium.common.exceptions import *
 
 
-# logging.basicConfig(level=logging.INFO)
 logging.basicConfig(filename="Debug.log", level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 @given(u'launch browser')
